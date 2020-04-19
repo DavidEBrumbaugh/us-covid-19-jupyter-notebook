@@ -12,7 +12,7 @@ https://youtu.be/Kas0tIxDvrg for the basic math.[1]
 
 *The Mathematics Behind the Coronavirus Spread*  
 By Stu Schwartz, www.MasterMathMentor.com  
-http://www.mastermathmentor.com/mmm-archive/CoronaVirus.pdf[2]  
+http://www.mastermathmentor.com/mmm-archive/CoronaVirus.pdf [2]  
 
 The conclusion from both of the above references is that historially viruses follow a logistic curve.  
 Page 8 of Schwartz[2]  implies that the general formula for logistic curves for viral growth is:  
